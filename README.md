@@ -29,7 +29,7 @@ To get started with Tidy Tune, download the latest version of the app for your M
 
 ## Support
 
-Encountered a bug or have a feature request? Please open an issue on the GitHub repository or submit your feedback directly through the app's feedback tool.
+Encountered a bug or have a feature request? Please open an issue on the GitHub repository.
 
 ## Contribute
 
